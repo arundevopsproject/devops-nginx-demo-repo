@@ -13,3 +13,4 @@ sudo systemctl enable nginx
 sudo systemctl status nginx
 
 #End of the installation of NGINX
+#Changes form remote end!
