@@ -12,4 +12,4 @@ sudo systemctl start nginx
 sudo systemctl enable nginx
 sudo systemctl status nginx
 
-#End of the installation
+#End of the installation of NGINX
