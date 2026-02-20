@@ -13,7 +13,6 @@ sudo apt install nginx -t
 sudo systemctl start nginx
 sudo systemctl enable nginx
 sudo systemctl status nginx
-nginx --version
 
 echo "Nginx is installed successfuly"
 
