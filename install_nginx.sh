@@ -4,7 +4,7 @@
 
 #Install Nginx
 
-echo "====== Installing Nginx" 
+echo "====== Installing Nginx ====="
 
 sudo apt update -y
 sudo apt install nginx -t
